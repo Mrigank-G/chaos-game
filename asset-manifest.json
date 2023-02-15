@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chaos-game/static/css/main.e57e02d3.css",
+    "main.js": "/chaos-game/static/js/main.70352f54.js",
+    "static/media/Trianglecursor.svg": "/chaos-game/static/media/Trianglecursor.b33b63b6791c0cd9654a.svg",
+    "static/media/Hexagoncursor.svg": "/chaos-game/static/media/Hexagoncursor.a1df4d0d17c58e1b7ac1.svg",
+    "index.html": "/chaos-game/index.html",
+    "main.e57e02d3.css.map": "/chaos-game/static/css/main.e57e02d3.css.map",
+    "main.70352f54.js.map": "/chaos-game/static/js/main.70352f54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e57e02d3.css",
+    "static/js/main.70352f54.js"
+  ]
+}
